@@ -1,8 +1,8 @@
 var originalcss = [];
 var size2 = false;
 var size3 = false;
-var value2 = 1.5;
-var value3 = 2.5;
+var value2 = 1.2;
+var value3 = 1.5;
 
 jQuery('#font-large, #font-larger, #restore').on('click', function() {
 	if (originalcss.length < 1) {

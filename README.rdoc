@@ -1,1 +1,1 @@
-Switcher is a simple code snippet that enables font size change on the entire document.
+Switcher is a simple code snippet that enables font size and contrast changes on the entire document.
